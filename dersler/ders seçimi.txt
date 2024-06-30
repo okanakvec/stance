@@ -1,0 +1,38 @@
+ŞARTLAR               ALINAN     ALINIYOR    KALAN
+Zorunlu x 4             1           3          0
+Seçmeli x 3             1           1          1
+TOPLAM____7_____________2___________4__________1
+
+SEMİNER                             1          0
+UZMANLIK 1                                     1 
+TEZ 1                                          1
+UZMANLIK 2                                     1
+TEZ 2                                          1
+
+gelecek dönem: 
+bilim araştırma - ve 1 adet seçmeli
+  
+
+
+2023- 2024 güz
+1) Z AĞ GÜVENLİĞi		- Tarık Yerlikaya
+2) S BİLİŞSEL TEKNOLOJİLER I 	- Özlem Uçar
+
+
+2023-2024 bahar
+1) Z  Doğal Dil İşleme 		- Özlem Aydın 	  y
+2) S  Bilişsel Teknolojiler II 	- Özlem Uçar	 y	
+3) Z  Şifreleme Teknikleri II 	- Tarık Yerlikaya	 x
+4) Z  SEMİNER  x
+
+	veri bilimi
+5) Z Derin Öğrenme Algoritmaları -  Emir Öztürk		y
+
+
+
+
+
+
+
+
+
